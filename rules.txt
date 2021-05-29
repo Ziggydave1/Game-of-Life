@@ -1,0 +1,28 @@
+any cell with 0, 1, 4, 5, 6, 7, or 8 live neighbors will be dead in the next step no matter what
+any cell with 3 live neighbors will be alive in the next step no matter what
+any cell with 2 live neighbors will not change
+
+left click will make a cell alive
+right click will make a cell dead
+spacebar will toggle the simulation (maybe button later)
+
+click will not work when the simulation is running
+, key will decrease the size of each cell (maybe button later)
+. key will increase the size of each cell (maybe button later)
+
+tools: (ways to fill in the grid more efficently, will be buttons to change the click action) (future)
+    toggle clicked
+    turn on clicked
+    turn of clicked
+    box select
+    add to selection
+    toggle selected
+    turn on selected
+    turn off selected
+    move
+    rotate
+    increase cell size
+    decrease cell size
+    increase grid size
+    decrease grid size
+    zoom (future)
